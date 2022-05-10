@@ -1,6 +1,7 @@
-﻿## Interface: 30300
+## Interface: 30300
 ## Title: MinimapButtonBag
 ## Author: Tunhadil, Fixed by Pericles for WotLK
+## Version: 1.0
 ## X-Category: Map
 ## Notes: Cleans up minimap buttons and makes them accessible through a pop out menu!
 ## Notes-deDE: Reduziert die Minimap Knöpfe und erlaubt den Zugriff auf diese über ein Menü!
